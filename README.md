@@ -1,7 +1,4 @@
-Here is a **correct, detailed, and professional project description** you can use for **README, resume, internship, or interviews**.
-I’ve written it in **clear English**, with **proper structure**, and **system-design focus**.
 
----
 
 # 📌 Project Description
 
